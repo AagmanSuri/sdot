@@ -22,3 +22,19 @@ small{
     margin-left: 55rem;
 
 }
+.mdn{
+    margin-top: 0.1rem;
+    margin-left: 12rem;
+}
+.Learn{
+    margin-top: 1rem;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 15rem;
+    border: 1px solid pink;
+    margin-right: 64rem;
+    padding: 1rem 1rem 1rem 1rem;
+    background-color: #6261F6;
+    border-radius: 3rem;
+    color: white ;
+}

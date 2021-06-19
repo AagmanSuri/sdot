@@ -2,13 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Navbar from './Navbar/Navbar';
-import Content from './Content/Content'
+import Content from './Content/Content';
+import Card from './Card/Card';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Navbar/>
     <Content/>
+    <Card/>
   </React.StrictMode>,
   document.getElementById('root')
 );

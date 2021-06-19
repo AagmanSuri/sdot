@@ -1,0 +1,45 @@
+body {
+    margin-bottom: 5rem;
+}
+.card1{
+    border: 1px solid rgba(149, 149, 233, 0.349) ;
+    height: 170px;
+    width: 260px;
+    margin-top: 5rem;
+    margin-left : 12rem;
+    margin-right: 70rem;
+    background-color: rgba(149, 149, 233, 0.349);
+    color: black;
+}
+.card1 p{
+    margin-left: 1rem;
+}
+.card2 p{
+    margin-left: 1rem;
+}
+.card3 p{
+    margin-left: 1rem;
+}
+h3{
+    margin-left: 1rem;
+}
+.card2{
+    border: 1px solid rgba(255, 218, 185, 0.424) ;
+    height: 170px;
+    width: 260px;
+    margin-left : 35rem;
+    margin-right: 70rem;
+    margin-top: -12rem;
+    background-color: rgba(255, 218, 185, 0.424);
+    color: black;
+}
+.card3{
+    border: 1px solid rgba(223, 243, 178, 0.473) ;
+    height: 170px;
+    width: 260px;
+    margin-left : 57rem;
+    margin-right: 70rem;
+    margin-top: -9.5rem;
+    background-color: rgba(223, 243, 178, 0.473);
+    color: black;
+}
