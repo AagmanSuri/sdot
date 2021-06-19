@@ -1,3 +1,38 @@
+body{
+    background-color: #EEF0FC;
+    
+}
+.logo{
+    margin-top: 2rem ;
+    margin-left: 2rem;
+}
+ul{
+    margin-top: -3.5rem;
+    margin-left: 10rem;
+    text-decoration:none;
+    color: black;
+}
 li{
-    text-decoration: none;
+    display: inline;
+    padding: 1rem 1rem 1rem 1rem;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+.btn{
+    border: 1px solid black;
+    margin-top: -2.75rem;
+    margin-left: 70rem;
+    margin-right: 11rem;
+    border-radius: 10rem ;
+    padding: 10px 0px 10px 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+} 
+.signin{
+    cursor: pointer;
+    margin-top: -3rem;
+    margin-left: 77rem;
 }

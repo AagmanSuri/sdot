@@ -4,7 +4,7 @@ import logo from  './logo.png'
 function Navbar() {
     return (
         <div>
-           <img  alt='sdot' src={logo}></img>
+           <img className="logo"  alt='sdot' src={logo}></img>
            <ul>
                <li><a href="link.com"> Home    </a></li>
                <li><a href="link.com"> About   </a></li>
@@ -13,6 +13,13 @@ function Navbar() {
                <li><a href="link.com"> Cases   </a></li>
                <li><a href="link.com"> Blog    </a></li>
            </ul>
+           <ul className="btn">
+               <li className="btnLi"><a style={{color:"white"}} href="link.com">Get in Touch</a></li>
+           </ul>
+           <ul className="signin">
+               <li><a href="link.com">Sign In</a></li>
+           </ul>
+
         </div>
     )
 }
